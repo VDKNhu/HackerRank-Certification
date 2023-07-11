@@ -7,4 +7,7 @@
   <li>  
     <a href="https://www.hackerrank.com/certificates/aea908b14b52">Skill Javascript(Basic)</a>
   </li>
+  <li>
+    <a href="https://www.hackerrank.com/certificates/e93ad1f6aad3">Skill Javascript(Intermediate)</a>
+  </li>
 </ul>
